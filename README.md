@@ -2,9 +2,7 @@
 
 [See the working demo &raquo;](http://ayanmitra88.github.io/FusionTable-Map-Template/)
 
-* [v 1.2](https://github.com/derekeder/FusionTable-Map-Template/releases/tag/v1.2) - Bootstrap 3, jQuery 1.10.2, jQuery Address 1.6
-* [v 1.1](https://github.com/derekeder/FusionTable-Map-Template/releases/tag/v1.1) - Bootstrap 2.0.3, jQuery 1.7.1, jQuery Address 1.4 
-  
+
 ## Copyright and attribution
 
 Copyright (c) 2015 Derek Eder. Released under the MIT License.
